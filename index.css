@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(125, 20, 223);
+}
+
+h1{
+    text-align: center;
+}
+
+#sub{
+    background-color: brown;
+    color: blue;
+}
+#result{
+    width: 80%;
+    height: 30%;
+    padding: 40px;
+}
